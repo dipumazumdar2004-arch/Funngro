@@ -1,0 +1,7 @@
+# robots.txt for Funngro Two-Page Website Redesign Concept
+# Replace the Sitemap URL below with your deployed GitHub Pages or production domain.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://example.github.io/funngro-website/sitemap.xml
